@@ -1,17 +1,6 @@
 {
   "projetos": [
     {
-      "nome_projeto": "t1",
-      "orcamento_inicial_projeto": "10000",
-      "categorias": {
-        "id": "2",
-        "name": "Planejamento"
-      },
-      "descricao_projeto": "teste 1",
-      "servicos": [],
-      "id": 1
-    },
-    {
       "nome_projeto": "Propaganda publicitária",
       "orcamento_inicial_projeto": "3000",
       "categorias": {
@@ -21,17 +10,6 @@
       "descricao_projeto": "propaganda",
       "servicos": [],
       "id": 2
-    },
-    {
-      "nome_projeto": "teste 2",
-      "orcamento_inicial_projeto": "10000",
-      "categorias": {
-        "id": "3",
-        "name": "Design"
-      },
-      "descricao_projeto": "descricao teste",
-      "servicos": [],
-      "id": 3
     },
     {
       "nome_projeto": "Comunicação e Expressão 1",
@@ -56,27 +34,50 @@
       "id": 5
     },
     {
-      "nome_projeto": "testeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
-      "orcamento_inicial_projeto": "998",
+      "nome_projeto": "Sistemas de Informação",
+      "orcamento_inicial_projeto": "10000",
       "categorias": {
         "id": "5",
         "name": "Infraestrutura"
       },
-      "descricao_projeto": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+      "descricao_projeto": "O curso de sistema de informação serve basicamente para se ter um entendimento sobre como funcionam as redes, modelos de negócios, engenhria social e quais profissões são mais populares e bem pagas da atualidade",
       "servicos": [],
       "id": 6
     },
     {
-      "nome_projeto": "Diferenças Sociais",
+      "nome_projeto": "Calculo I",
+      "orcamento_inicial_projeto": "100001",
+      "categorias": {
+        "id": "2",
+        "name": "Planejamento"
+      },
+      "descricao_projeto": "Matéria sobre Derivadas de funções e integrais",
+      "servicos": [],
+      "id": 7
+    },
+    {
+      "nome_projeto": "Json-Server",
+      "orcamento_inicial_projeto": "9998",
+      "categorias": {
+        "id": "1",
+        "name": "Desenvolvimento"
+      },
+      "descricao_projeto": "Testando para ver se o json server está funcionando :)",
+      "servicos": [],
+      "id": 8
+    },
+    {
+      "nome_projeto": "Numero formatado",
       "orcamento_inicial_projeto": "10000",
       "categorias": {
         "id": "1",
         "name": "Desenvolvimento"
       },
-      "descricao_projeto": "Música do artista compositor Rael",
+      "descricao_projeto": "Para verificar o funcionamento da biblioteca number format",
       "servicos": [],
-      "id": 7
+      "id": 9
     }
+    
   ],
   "categorias": [
     {
