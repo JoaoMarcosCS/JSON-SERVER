@@ -12,13 +12,13 @@
       "id": 2
     },
     {
-      "nome_projeto": "Comunicação e Expressão 1",
-      "orcamento_inicial_projeto": "1000",
+      "nome_projeto": "Comunicação e Expressão 23 1",
+      "orcamento_inicial_projeto": "2000",
       "categorias": {
-        "id": "1",
-        "name": "Desenvolvimento"
+        "id": "3",
+        "name": "Design"
       },
-      "descricao_projeto": "Melhorias na comunicação e expressão ideias corporativas",
+      "descricao_projeto": "Mudei a descrição",
       "servicos": [],
       "id": 4
     },
@@ -54,30 +54,7 @@
       "descricao_projeto": "Matéria sobre Derivadas de funções e integrais",
       "servicos": [],
       "id": 7
-    },
-    {
-      "nome_projeto": "Json-Server",
-      "orcamento_inicial_projeto": "9998",
-      "categorias": {
-        "id": "1",
-        "name": "Desenvolvimento"
-      },
-      "descricao_projeto": "Testando para ver se o json server está funcionando :)",
-      "servicos": [],
-      "id": 8
-    },
-    {
-      "nome_projeto": "Numero formatado",
-      "orcamento_inicial_projeto": "10000",
-      "categorias": {
-        "id": "1",
-        "name": "Desenvolvimento"
-      },
-      "descricao_projeto": "Para verificar o funcionamento da biblioteca number format",
-      "servicos": [],
-      "id": 9
     }
-    
   ],
   "categorias": [
     {
